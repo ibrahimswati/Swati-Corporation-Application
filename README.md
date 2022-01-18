@@ -7,10 +7,10 @@
 <img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/login.png" width="200" height="400">
 
 # Email not verified:
-<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/mfa1.png" width="200" height="400">
+<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/MFA1.png" width="200" height="400">
 
 # Email verified:
-<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/mfa2.png" width="200" height="400">
+<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/MFA2.png" width="200" height="400">
 
 # Home:
 <img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/home.png" width="200" height="400">
@@ -25,6 +25,6 @@
 <img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/addtransaction.png" width="200" height="400">
 
 # Contact:
-<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/contact.png" width="200" height="400">
+<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/Contact.png" width="200" height="400">
 
 
