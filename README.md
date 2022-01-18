@@ -2,4 +2,4 @@
 
 # Registration Screen: 
 
-![alt text](https://github.com/ibrahimswati/SwatiCorporationApp/login.png)
+![alt text](https://github.com/ibrahimswati/SwatiCorporationApp/blob/login.png)
