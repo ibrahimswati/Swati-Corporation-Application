@@ -47,10 +47,11 @@ Any transactions will require what bank is used which will automatically be redu
 Transactions consists of transactions added by accountant to be verified by upper staff management.
 All transactions require what bank is used as it automatically stores the balance.
 
-<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/transactions.png" width="200" height="400" img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/addtransaction.png" width="200" height="400">
+<p float="left">
+<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/transactions.png" width="200" height="400" 
+<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/addtransaction.png" width="200" height="400">
+</p>
 
-# Add transaction:
-<>
 
 # Contact:
 
