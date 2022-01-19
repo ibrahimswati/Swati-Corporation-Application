@@ -31,7 +31,7 @@ If email is verified user can click on verify email to be redirected to homepage
 
 # Home:
 
-Homepage consists of images of reciepts added in transactions
+Homepage consists of images of reciepts, bank balances, monthly spending, etc. (*To be worked on)
 
 <img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/home.png" width="200" height="400">
 
