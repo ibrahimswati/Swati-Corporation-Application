@@ -48,7 +48,7 @@ Transactions consists of transactions added by accountant to be verified by uppe
 All transactions require what bank is used as it automatically stores the balance.
 
 <p float="left">
-<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/transactions.png" width="200" height="400" 
+<img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/transactions.png" width="200" height="400"> 
 <img src="https://github.com/ibrahimswati/SwatiCorporationApp/blob/main/addtransaction.png" width="200" height="400">
 </p>
 
